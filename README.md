@@ -17,4 +17,4 @@
 ## What I Learned
 
 - There is Lots of risk and they can be graded in different categories.
-- When looking at some of the Risks that i calculated i would change for example Lack of Qualified Staff at the time i based it on what job they are doing. Having Poor Qualified Staff can set back projects(Time, Schedule, etc).
+- When looking at some of the Risks that i calculated i would change for example Lack of Qualified Staff at the time i based it on what job they are doing. Having Poor Qualified Staff can set back projects(Time, Schedule, etc) this should have been a Higher Risk.
