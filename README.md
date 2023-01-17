@@ -12,7 +12,7 @@
 - My section of the project was Software Threats, Human Threats, and Technology Threats.
 - The risk was either High, Medium, Info, Low.
 - Some examples were Known Exploit for Software Threats i graded this as a High Risk because a advisary when running a exploit can shutdown Hospital Equipment like Surgery Machines(Active or Non-Active), Workstations, etc.
-- Malicious End User Human Threat i graded this as High Risk because in Hospital Enviorment if they were a technical person they could cause massive disruption to equipment or steam personal data.
+- Malicious End User Human Threat i graded this as High Risk because in Hospital Enviorment if they were a technical person they could cause massive disruption to equipment or steal personal data.
 
 ## What I Learned
 
